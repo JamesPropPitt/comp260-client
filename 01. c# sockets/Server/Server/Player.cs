@@ -13,10 +13,7 @@ namespace Server
         public String playerName;
         public String clientName;
         public List<String> Items = new List<string>();
-        public void Init()
-        {
-            currentRoom = Dungeon.roomMap["Room 0", 0];
-         
-        }
+        Dungeon dungeon = new Dungeon();
+        public void Init() => currentRoom = dungeon.roomMap["Room 0", 0];
     }
 }

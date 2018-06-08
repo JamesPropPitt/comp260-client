@@ -9,8 +9,8 @@ namespace Server
     public class Dungeon
     {        
         public Dictionary<String, Room> roomMap;
-
-        Room currentRoom;
+        
+        public Room currentRoom;
 
         public void Init()
         {
@@ -73,6 +73,7 @@ namespace Server
             }
 
             Console.Write("\n> ");
+            return returnString;
         }
         public String Process(string key, Player player)
         {
@@ -93,8 +94,8 @@ namespace Server
                     //loop straight back
                     Console.Clear();
                     Thread.Sleep(1000);
-                    break;
-
+                    return returnString;
+                   
                 case "say":
                     Console.Write("You say ");
                     for (var i = 1; i < input.Length; i++)
@@ -104,7 +105,7 @@ namespace Server
 
                     Thread.Sleep(1000);
                     Console.Clear();
-                    break;
+                    return returnString;
 
                 case "go":
                     // is arg[1] sensible?
@@ -141,7 +142,7 @@ namespace Server
                             }
                         }
                     }
-                    break;
+                    return returnString;
 
                 default:
                     //handle error
@@ -149,7 +150,7 @@ namespace Server
                     returnString += ("\nCan not " + key);
                     returnString += ("\nPress any key to continue");
                     Console.ReadKey(true);
-                    break;
+                    return returnString;
             }
 
         }

@@ -42,10 +42,10 @@ namespace Server
                             
 
 
-                            var dungeon = new Dungeon();
+                            Dungeon dungeon = new Dungeon();
 
                             dungeon.Init();
-                            dungeon.Process();
+                            
                             
                             Console.WriteLine("Writing to client: " + recdMsg);
                             int bytesSent = s.Send(buffer);

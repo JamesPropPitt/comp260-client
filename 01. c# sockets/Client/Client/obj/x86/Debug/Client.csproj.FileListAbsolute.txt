@@ -10,3 +10,9 @@ C:\Users\propt_000\Downloads\My stuff\My stuff\Lecture 01\Lecture 01\01. c# sock
 C:\Users\propt_000\Downloads\My stuff\My stuff\Lecture 01\Lecture 01\01. c# sockets\Client\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\propt_000\Downloads\My stuff\My stuff\Lecture 01\Lecture 01\01. c# sockets\Client\Client\obj\x86\Debug\Client.exe
 C:\Users\propt_000\Downloads\My stuff\My stuff\Lecture 01\Lecture 01\01. c# sockets\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\jp187238\Downloads\comp260-client-master\comp260-client-master\01. c# sockets\Client\Client\bin\Debug\Client.exe
+C:\Users\jp187238\Downloads\comp260-client-master\comp260-client-master\01. c# sockets\Client\Client\bin\Debug\Client.pdb
+C:\Users\jp187238\Downloads\comp260-client-master\comp260-client-master\01. c# sockets\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\jp187238\Downloads\comp260-client-master\comp260-client-master\01. c# sockets\Client\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\jp187238\Downloads\comp260-client-master\comp260-client-master\01. c# sockets\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\jp187238\Downloads\comp260-client-master\comp260-client-master\01. c# sockets\Client\Client\obj\x86\Debug\Client.pdb
