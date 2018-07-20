@@ -1,0 +1,16 @@
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\sqlite example.exe.config
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\sqlite example.exe
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\sqlite example.pdb
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\EntityFramework.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\System.Data.SQLite.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\EntityFramework.xml
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\System.Data.SQLite.xml
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\obj\Debug\sqlite example.csprojResolveAssemblyReference.cache
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\obj\Debug\sqlite example.csproj.CoreCompileInputs.cache
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\obj\Debug\sqlite example.exe
+C:\Users\jp187238\Downloads\its not broken\Lecture 10 (1)\Lecture 10\code\sqlite example\sqlite example\obj\Debug\sqlite example.pdb
